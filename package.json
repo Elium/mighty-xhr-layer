@@ -1,6 +1,6 @@
 {
   "name": "@elium/mighty-xhr-layer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/Elium/mighty-xhr-layer#readme",
   "author": "Arnaud Bosc <bosc.arno@gmail.com>",
   "description": "NodeJS Http layer for mighty-js",
